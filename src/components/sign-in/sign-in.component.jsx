@@ -43,9 +43,9 @@ handleChange = event=>{
                     />
     
                     <FormInput 
-                    name='passwprd' 
+                    name='password' 
                     type='password' 
-                    value={ this.state.email } 
+                    value={ this.state.password } 
                     handleChange = { this.handleChange } 
                     required  
                     label='password'
