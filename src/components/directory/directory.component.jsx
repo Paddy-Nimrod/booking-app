@@ -26,7 +26,7 @@ class Directory extends React.Component{
                     linkUrl: ''
                 },
                 {
-                    title:'womens',
+                    title:'women',
                     imageUrl:'https://i.ibb.co/cvpntL1/hats.png',
                     size:'large',
                     id:4,
